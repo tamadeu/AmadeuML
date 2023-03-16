@@ -1,0 +1,1 @@
+<img src="assets/images/robot.png" style="height: 50px;" />
